@@ -1,3 +1,3 @@
 # analizatestowa
-analiza testowa
+analiza testowa zabawa z GIT
 ANALIZA ANALIZA
