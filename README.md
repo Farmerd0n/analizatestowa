@@ -3,3 +3,4 @@
 ANALIZA ANALIZA
 dobre maroko zamyka oko
 !! maskracja aww
+asdawd
