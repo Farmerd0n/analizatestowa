@@ -1,2 +1,3 @@
 # analizatestowa
 analiza testowa
+chuj
